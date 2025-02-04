@@ -1,7 +1,7 @@
-# 🚀 PUMPFUN ($PUMP) - The Ultimate Memecoin Experience!
+# 🚀 PUMPFUN (PUMP) - The Ultimate Memecoin Experience!
 
 ## 🎮 **What is PUMPFUN?**
-PUMPFUN ($PUMP) is the **only pump you'll actually enjoy**!   
+PUMPFUN (PUMP) is the **only pump you'll actually enjoy**!   
 A community-driven **memecoin** with no VCs, no roadmap—just **pure degen energy**! 💎  
 
 > **Numbers might go up, might go down, but memes are forever!** 🎮
@@ -9,7 +9,7 @@ A community-driven **memecoin** with no VCs, no roadmap—just **pure degen ener
 ---
 
 ## 🌎 **Live Website**
-🚀 **Check out the website:** [**getpumpfun.xyz**](https://getpumpfun.xyz)  
+🚀 **Check out the website:** [**https://getpumpfun.github.io/**](https://getpumpfun.github.io/)  
 
 ---
 
